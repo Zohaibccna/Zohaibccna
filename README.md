@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zohaibccna
-- 👀 I’m interested in system & network administration
+- 👀 I’m interested in IT management & team lead
 - 🌱 I’m currently learning a lot of new technologies
-- 💞️ I’m looking to collaborate on Linux servers
+- 💞️ I’m looking to collaborate on Linux servers/DevOps
 - 📫 How to reach me (1321730343@ncbae.edu.pk)
 
 <!---
